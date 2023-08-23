@@ -1,0 +1,3 @@
+C:\Users\Vukos\source\repos\WindowsServiceSolution\WindowsServiceTest\obj\Debug\WindowsServiceTest.csproj.AssemblyReference.cache
+C:\Users\Vukos\source\repos\WindowsServiceSolution\WindowsServiceTest\obj\Debug\WindowsServiceTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vukos\source\repos\WindowsServiceSolution\WindowsServiceTest\obj\Debug\WindowsServiceTest.csproj.CoreCompileInputs.cache
